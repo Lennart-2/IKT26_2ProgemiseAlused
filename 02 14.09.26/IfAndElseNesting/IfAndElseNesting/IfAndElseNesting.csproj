@@ -7,8 +7,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Compile Include="C:\Users\opilane\source\repos\too\IKT26_2ProgemiseAlused\02 14.09.26\Program.cs" Link="Program.cs" />
-  </ItemGroup>
-
 </Project>
