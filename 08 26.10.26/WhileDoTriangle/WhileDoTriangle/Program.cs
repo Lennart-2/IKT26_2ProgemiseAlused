@@ -19,7 +19,7 @@
                 int j = 1;
                 while (j <= i)
                 {
-                    Console.Write(j + " ");
+                    Console.WriteLine(j + " ");
                     j++;
                 }
                 i++;
